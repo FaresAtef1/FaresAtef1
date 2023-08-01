@@ -1,10 +1,7 @@
 <div align='center'>
-
+  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Fares!&fontAlign=50&fontAlignY=40&color=timeGradient)
-
 </div>
-
-
 
 <div align="center">
   <h2> Random GitHub stats </h2>
