@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align='center'>
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Fares!&fontAlign=50&fontAlignY=40&color=timeGradient)
+
+</div>
 
 <!--
 **FaresAtef1/FaresAtef1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
