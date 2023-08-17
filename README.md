@@ -14,7 +14,8 @@
   ![](https://raw.githubusercontent.com/FaresAtef1/github-profile-summary-cards/master/profile-summary-card-output/algolia/3-stats.svg)
   ![](https://raw.githubusercontent.com/FaresAtef1/github-profile-summary-cards/master/profile-summary-card-output/algolia/4-productive-time.svg)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaresAtef1&hide=html,css,xslt,makefile&langs_count=30&theme=tokyonight&bg_color=050F2C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![](https://raw.githubusercontent.com/FaresAtef1/github-profile-summary-cards/master/profile-summary-card-output/algolia/2-most-commit-language.svg)
+  ![](https://raw.githubusercontent.com/FaresAtef1/github-profile-summary-cards/master/profile-summary-card-output/algolia/1-repos-per-language.svg)
 </div>
 
 <div align='center'>
