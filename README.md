@@ -1,6 +1,7 @@
 <div align='center'>
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Fares!&fontAlign=50&fontAlignY=40&color=timeGradient)
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Fares!&fontAlign=50&fontAlignY=40&color=timeGradient) -->
+![waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20I'm%20Fares!&fontAlign=50&fontAlignY=40&color=0:A020F0,100:E30B5D)
 
 <p align='center'> I'm a computer engineering student at Cairo University who adores problem-solving and has a strong affection for C++. I thrive on challenges and love contributing to open-source projects.
    </p>
