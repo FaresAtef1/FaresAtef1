@@ -22,10 +22,9 @@
   
   [![My Skills1](https://skillicons.dev/icons?i=cpp,c,cs,java,py,bash,html,css,arduino)](https://skillicons.dev)  
   [![My Skills2](https://skillicons.dev/icons?i=docker,jenkins,aws,azure)](https://skillicons.dev)  
-  [![My Skills3](https://skillicons.dev/icons?i=git,github,mongodb,mysql)](https://skillicons.dev)
+  [![My Skills3](https://skillicons.dev/icons?i=git,github,mongodb,mysql)](https://skillicons.dev)  
+  [![My Skills4](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
   
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Microsoft Windows" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
 </div>
 
 <!--
